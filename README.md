@@ -11,8 +11,8 @@ Josiel's Repository of PhD useful docs and codes.
 
 ## Authors
 
-- [Josiel Mendonça Soares de Souza @jmsdsouzaPhD]{https://github.com/jmsdsouzaPhD/Python_Physics}
+- [@jmsdsouzaPhD](https://github.com/jmsdsouzaPhD)
 
 ## License
 
-[MIT License]{LICENSE}
+[MIT License](LICENSE)
