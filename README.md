@@ -1,6 +1,18 @@
 # Python_Physics
 
-Josiel Mendonça Soares de Souza
-PhD in Physiscs (since April/May 2023) by UFRN, Natal-RN, Brazil.
+Josiel's Repository of PhD useful docs and codes.
 
-This is the Josiel's Repository of PhD useful docs and codes.
+## Features
+
+- Computational Physics
+- Python Coding
+- Cosmology Notes
+- Gravitational Wave Notes
+
+## Authors
+
+- [Josiel Mendonça Soares de Souza @jmsdsouzaPhD]{https://github.com/jmsdsouzaPhD/Python_Physics}
+
+## License
+
+[MIT License]{LICENSE}
